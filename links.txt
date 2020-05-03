@@ -1,1 +1,2 @@
 Medium Blog: https://medium.com/@jaskaranbhatia/starbucks-capstone-project-predicting-offer-effectiveness-b09174056f9
+GitHub Repo: https://github.com/jaskaranbhatia/Starbucks-Capstone
