@@ -62,9 +62,9 @@ Here is the schema and explanation of each variable in the files:
 -   value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 ## Files
-Starbucks_Capstone_notebook.ipynb: the code notebook 
-Starbucks_Capstone_notebook.html : the HTML version of the notebook
-report.pdf : the report explaining all the stages of capstone project
+Starbucks_Capstone_notebook.ipynb: the code notebook<br/>
+Starbucks_Capstone_notebook.html : the HTML version of the notebook<br/>
+report.pdf : the report explaining all the stages of capstone project<br/>
 links.txt : contains link to Medium Blog And Github Repo
 
 ## Summary 
