@@ -7,21 +7,21 @@ A detailed report of analysis for this project is available [here](https://mediu
 
 ## Libraries Used
  
-import pandas as pd
-import numpy as np
-import math
-import json
-import matplotlib.pyplot as plt
-import seaborn as sns 
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import fbeta_score, accuracy_score
-from sklearn.model_selection import cross_val_score
-from sklearn.preprocessing import MinMaxScaler
-from datetime import datetime
-import warnings
+import pandas as pd<br/>
+import numpy as np<br/>
+import math<br/>
+import json<br/>
+import matplotlib.pyplot as plt<br/>
+import seaborn as sns <br/>
+from sklearn.neighbors import KNeighborsClassifier<br/>
+from sklearn.tree import DecisionTreeClassifier<br/>
+from sklearn.ensemble import RandomForestClassifier<br/>
+from sklearn.model_selection import train_test_split<br/>
+from sklearn.metrics import fbeta_score, accuracy_score<br/>
+from sklearn.model_selection import cross_val_score<br/>
+from sklearn.preprocessing import MinMaxScaler<br/>
+from datetime import datetime<br/>
+import warnings<br/>
 
 ## Motivation
 
